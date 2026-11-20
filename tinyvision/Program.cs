@@ -1,10 +1,10 @@
 ﻿namespace tinyvision
 {
-    internal class Program
+    public class TinyVision
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
         }
     }
 }
